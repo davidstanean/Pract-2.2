@@ -1,0 +1,20 @@
+#nombre_ciudad {
+    color: blue;
+    font-weight: bold;
+ 
+    font-size: 30px; 
+    }
+
+
+.descrip_ciudad {
+    color: green;
+    
+    font-family: Arial, sans-serif; 
+    }
+
+
+.sitios_ciudad {
+    font-family: sans-serif; 
+  
+    color: brown;
+    }   
